@@ -38,3 +38,16 @@ print("2 hoch 3:", potenz)
 # Aufgabe:
 # Führen Sie eine Addition, Subtraktion, Multiplikation und Division
 # mit zwei von Ihnen gewählten Variablen durch und geben Sie die Ergebnisse aus.
+x = 1
+y = 15
+z = 1.6
+add = x + y
+sub = x - z
+mul = y * z
+div = x / z
+divganz = y // z
+print("Addition:", add)
+print("Subtraktion:", sub)
+print("Multiplikation:", mul)
+print("Division:", div)
+print("Ganzzahlige Division:", divganz)
